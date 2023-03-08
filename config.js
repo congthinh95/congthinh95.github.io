@@ -6,7 +6,7 @@ const CONFIG = {
     à 1 thiên thần đang đọc tin nhắn chúc mừng ngày 8/3 này.`,
     btnIntro: 'hihi',
     title: 'Thiệp 8/3 dành tặng riêng cho Fie FIe',
-    desc: 'hmmmmmmmmmmmmmmmmmm !',
+    desc: 'Hi vọng là Fie sẽ có một ngày 8/3 thật tuyệt vờiii !',
     btnYes: 'Vuiiiii :)) ',
     btnNo: 'không thíchhhhhh ',
     question:'Biết ngay là sẽ thích màaaaaaaaaaaaaa <3',
