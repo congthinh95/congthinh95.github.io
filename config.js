@@ -1,19 +1,17 @@
 const CONFIG = {
     introTitle:'Yoooooo !',
-    introDesc: `Trên thiên đường có 10 thiên thần,
-    5 thiên thần đang chơi đùa,
-    4 thiên thần đang nói chuyện,
-    à 1 thiên thần đang đọc tin nhắn chúc mừng ngày 8/3 này.`,
-    btnIntro: 'hihi',
-    title: 'Thiệp 8/3 dành tặng riêng cho Fie FIe',
-    desc: 'hmmmmmmmmmmmmmmmmmm !',
-    btnYes: 'Vuiiiii :)) ',
-    btnNo: 'không thíchhhhhh ',
-    question:'Biết ngay là sẽ thích màaaaaaaaaaaaaa <3',
-    btnReply: 'Gửi cho bạn',
-    reply: 'Fie rất thích cám ơn Thịnh nho =)))',
-    mess: 'Tớ biết mà. ',
-    messDesc: 'Chúc Fie Fie một ngày 8/3 vui vẻ và tràn ngập hạnh phúc nhé ',
+    introDesc: `Ngoan xinh yêu đâu rồi?. `,
+    btnIntro: 'Ngoan xinh yêu đây nè!',
+    title: 'Chúc Ý Vi xem cái này xong thật là vui',
+    desc: 'Hi vọng là em sẽ có một ngày vui quên mấy chuyện buồn hôm qua nha!!',
+    btnYes: 'Thích và đã hết buồnn :D ',
+    btnNo: 'không thíchhhh ',
+    question:` Biết ngay là em sẽ thích mà :p 
+    Viết gì đó reply anh hen. `,
+    btnReply: 'Nút Gửi',
+    reply: 'Em có viết cái gì đi nữa thì nó cũng là anh viết hết thôi :p Nên chúc em luôn vui vẻ',
+    mess: 'Duyệt! Quá tuyệt vời. ',
+    messDesc: 'Chúc Ý Vi một ngày vui vẻ và tràn ngập hạnh phúc nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.youtube.com/watch?v=Q9C2i_Z2ETA' 
+    messLink: 'https://youtu.be/XN4-O0k7kCo?si=MrC4wp5KDTZneykl' 
 }
