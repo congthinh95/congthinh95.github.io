@@ -9,9 +9,9 @@ const CONFIG = {
     question:` Biết ngay là em sẽ thích mà :p 
     Viết gì đó reply anh hen. `,
     btnReply: 'Nút Gửi',
-    reply: 'Em có viết cái gì đi nữa thì nó cũng là anh viết hết thôi :p Nên chúc em luôn vui vẻ',
+    reply: 'Em có viết cái gì đi nữa thì nó cũng là anh viết hết thôi :p Nên chúc em luôn vui vẻ nhé!!!',
     mess: 'Duyệt! Quá tuyệt vời. ',
-    messDesc: 'Chúc Ý Vi một ngày vui vẻ và tràn ngập hạnh phúc nhé',
+    messDesc: 'À khi nào cần người để nói ba láp ba xàm hay tùm lum tùm la chuyện thì có chú anh nha',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://youtu.be/XN4-O0k7kCo?si=MrC4wp5KDTZneykl' 
 }
